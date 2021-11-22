@@ -11,6 +11,7 @@
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -44,4 +45,5 @@
 [work]: /
 [discord]: https://discord.gg/Ss8SRPGZck
 [linkedin]: https://www.linkedin.com/in/alex-santini-1555951b3/
+[gmail]: mailto:alexsantini.as@gmail.com
 [tools]: /
