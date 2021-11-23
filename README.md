@@ -2,7 +2,7 @@
  
 ### I'm a passionate developer and computer science engineering student
 
-- :telescope: I'm currently working on [][work]
+- :telescope: I'm currently working on [Bip-Bapp][work]
 - :blue_book: I'm currently studying computer science engineering at University of Bologna
 - :dancing_men: I'm looking to collaborate with other developers
 - :guitar: Fun fact: I like to play guitar and sing
@@ -31,7 +31,9 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />][tools]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />][tools]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][tools]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][tools]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][tools]
+
 
 <br />
 <br />
@@ -48,10 +50,26 @@
 
 [website]: https://github.com/AlexSantini10
 
-[work]: https://github.com/AlexSantini10
+[work]: https://github.com/AlexSantini10/bip-bapp-bozza
 
 [discord]: https://discord.gg/Ss8SRPGZck
 [linkedin]: https://www.linkedin.com/in/alex-santini-1555951b3/
 [gmail]: mailto:alexsantini.as@gmail.com
 
-[tools]: https://github.com/AlexSantini10
+[//]: <> tools
+[vscode]: https://code.visualstudio.com/
+[cpp]: https://www.cplusplus.com/
+[c]: https://devdocs.io/c/
+[python]: https://www.python.org/doc/
+[javascript]: https://devdocs.io/javascript/
+[nodejs]: https://nodejs.org/it/docs/
+[html]: https://webplatform.github.io/docs/html/
+[css]: https://devdocs.io/css/
+[react]: https://it.reactjs.org/
+[php]: https://www.php.net/manual/en/
+[mysql]: https://www.mysql.com/it/
+[mongodb]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/AlexSantini10
+[bash]: https://devdocs.io/bash/
+[terminal]: https://github.com/AlexSantini10
