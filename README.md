@@ -17,22 +17,22 @@
 
 ### Languages and tools:
 
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />]([cpp])
-[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][c]
-[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" />][python]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />][mysql]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />][mongodb]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />][git]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][bash]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
+[<img align="left" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />](https://www.cplusplus.com/)
+[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />](https://devdocs.io/c/)
+[<img align="left" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" />](https://www.python.org/doc/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://devdocs.io/javascript/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/it/docs/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://webplatform.github.io/docs/html/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://devdocs.io/css/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://it.reactjs.org/)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://www.php.net/manual/en/)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/it/)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />](https://git-scm.com/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/AlexSantini10)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://devdocs.io/bash/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/AlexSantini10)
 
 
 <br />
