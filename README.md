@@ -9,23 +9,24 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][discord]
+[<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
 <br />
 
 ### Languages and tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][tools]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />][tools]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />][tools]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />][tools]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][tools]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.png" />][tools]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][tools]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][tools]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][tools]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][tools]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][tools]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][tools]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][tools]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />][tools]
+[<img align="left" alt="Node.js" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.svg" />][tools]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][tools]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][tools]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][tools]
@@ -47,8 +48,11 @@
 <img src="https://wakatime.com/share/@89a708c5-27da-4173-adcb-66f00af76157/1ac2c79d-7413-46a5-872c-6252aa7a0228.svg" height="400" />
 
 [website]: https://github.com/AlexSantini10
-[work]: /
+
+[work]: https://github.com/AlexSantini10
+
 [discord]: https://discord.gg/Ss8SRPGZck
 [linkedin]: https://www.linkedin.com/in/alex-santini-1555951b3/
 [gmail]: mailto:alexsantini.as@gmail.com
-[tools]: /
+
+[tools]: https://github.com/AlexSantini10
