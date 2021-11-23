@@ -43,8 +43,7 @@
 <br />
 <br />
 
-<figure><embed src="https://wakatime.com/share/@89a708c5-27da-4173-adcb-66f00af76157/1ac2c79d-7413-46a5-872c-6252aa7a0228.svg"></embed></figure>
-
+<img src="https://wakatime.com/share/@89a708c5-27da-4173-adcb-66f00af76157/1ac2c79d-7413-46a5-872c-6252aa7a0228.svg" />
 
 [website]: https://github.com/AlexSantini10
 [work]: /
