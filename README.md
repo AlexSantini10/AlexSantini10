@@ -1,9 +1,9 @@
 ### Hi there, I'm Alex - aka [AlexSantini10][website] :wave:
  
-### I'm a passionate developer and computer science engineering student
+### I'm a passionate developer and software engineering student
 
 - :telescope: I'm currently working on [Bip-Bapp][work]
-- :blue_book: I'm currently studying computer science engineering at University of Bologna
+- :blue_book: I'm currently studying software engineering at University of Bologna
 - :dancing_men: I'm looking to collaborate with other developers
 - :guitar: Fun fact: I like to play guitar and sing
 
