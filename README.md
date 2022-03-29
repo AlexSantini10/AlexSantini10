@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][discord]
-[<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
-[<img align="left" width="22px" src="https://res.cloudinary.com/alexsantini/image/upload/v1648314940/favicon_tswnst.ico" />][mywebsite]
+[<img align="left" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" target="_blank" />][discord]
+[<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank" />][linkedin]
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank" />][gmail]
+[<img align="left" width="22px" src="https://res.cloudinary.com/alexsantini/image/upload/v1648314940/favicon_tswnst.ico" target="_blank" />][mywebsite]
 
 <br />
 
