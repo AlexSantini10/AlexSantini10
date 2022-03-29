@@ -3,7 +3,7 @@
 ### I'm a passionate developer and computer science and engineering student
 
 - :telescope: I'm currently working on [Bip-Bapp][work]
-- :blue_book: I'm currently studying software engineering at University of Bologna
+- :blue_book: I'm currently studying computer science and engineering at University of Bologna
 - :dancing_men: I'm looking to collaborate with other developers
 - :guitar: Fun fact: I like to play guitar and sing
 
@@ -12,6 +12,7 @@
 [<img align="left" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][discord]
 [<img align="left" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
+[<img align="left" width="22px" src="https://res.cloudinary.com/alexsantini/image/upload/v1648314940/favicon_tswnst.ico" />][mywebsite]
 
 <br />
 
@@ -42,10 +43,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSantini10&show_icons=true&count_private=true)][website]
 
-<br />
-
----
-
 <img src="https://wakatime.com/share/@89a708c5-27da-4173-adcb-66f00af76157/1ac2c79d-7413-46a5-872c-6252aa7a0228.svg" height="440" />
 
 [website]: https://github.com/AlexSantini10
@@ -55,6 +52,7 @@
 [discord]: https://discord.gg/Ss8SRPGZck
 [linkedin]: https://www.linkedin.com/in/alex-santini-1555951b3/
 [gmail]: mailto:alexsantini.as@gmail.com
+[mywebsite]: https://www.santinialex.com/
 
 [//]: tools
 [vscode]: https://code.visualstudio.com/
