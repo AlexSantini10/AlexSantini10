@@ -7,7 +7,7 @@ Developer and Computer Science and Engineering student
 * 🌍  I'm based in Italy
 * 🖥️  See my portfolio at [santinialex.com](http://santinialex.com)
 * ✉️  You can contact me at [alexsantini.as@gmail.com](mailto:alexsantini.as@gmail.com)
-* 🧠  I'm learning MERN Stack and Tensorflow
+* 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
