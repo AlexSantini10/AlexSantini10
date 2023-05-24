@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Santini</h1>
-<h3 align="center">A passionate developer from Italy</h3>
+<h3 align="center">A passionate Software Engineer from Italy</h3>
 
 
 # 💫 About Me:
