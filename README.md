@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Santini</h1>
 <h3 align="center">A passionate Software Engineer from Italy</h3>
 
-
-# 💫 About Me:
-- 🔭 I’m currently working on **Expense er Truck**
-
-- 🌱 I’m currently learning **Data science and ML foundations**
-
-- 👯 I’m looking to collaborate on **Open source projects**
-
-- 👨‍💻 All of my projects are available at [https://www.santinialex.com/](https://www.santinialex.com/)
-
-- 📫 How to reach me **alexsantini.as@gmail.com**
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-santini-1555951b3) 
 
