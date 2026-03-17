@@ -12,3 +12,4 @@
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://komarev.com/ghpvc/?username=AlexSantini10&color=blue)
